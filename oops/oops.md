@@ -1,0 +1,1 @@
+## Programming paradigm based on the concept of "objects" that contains data and methods.
